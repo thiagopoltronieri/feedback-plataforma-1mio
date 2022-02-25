@@ -38,17 +38,17 @@
 - ## Perfil Joven
 - ## Geral
 > ### Para todos os perfís, o email só é recebido em email da Microsoft, e estão caindo em Spam.(Acredito que com a migração isso será resolvido, mas incluí aqui no feedback)
-> ![Email](/perfil-joven/email.png)
+> ![Email](perfil-joven/email.png)
 
 <br/>
 
 >- ### 1MiO está escrito em letras minúsculas nos emails recebidos
-> ![Email2](/perfil-joven/email2.png)
+> ![Email2](perfil-joven/email2.png)
 
 <br/>
 
 >- ### No rodapé, o link que leva para ao LinkedIn está incorreto, deve ser substituído por esse `https://www.linkedin.com/company/1mio`
-> ![Email2](/materiais/link-linkedin.png)
+> ![Email2](materiais/link-linkedin.png)
 
 # **Prioridade Média** <br/>
 - ## Município do Selo
