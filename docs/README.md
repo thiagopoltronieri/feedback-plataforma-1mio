@@ -48,11 +48,11 @@
 
 - ## Perfil Empresa 
 > `Nenhum feedback de melhoria até o momento.`
-- ## Perfil Joven 
-> ### A Palavra `Empresa` no momento do joven cadastrar sua formação educacional fica bem confuso, recomendo alterar para algo tipo `"Instituição"`.
+- ## Perfil Jovem 
+> ### A Palavra `Empresa` no momento do jovem cadastrar sua formação educacional fica bem confuso, recomendo alterar para algo tipo `"Instituição"`.
 > ![Email2](perfil-joven/cadastro-escolaridade.png)
 
-> ### No momento do cadastro das redes-socias no perfil do joven, se possível, colocar uma validação para não permitir o `@`  no inicio do nome de usuário, pois o link fica "Quebrado".
+> ### No momento do cadastro das redes-socias no perfil do joven, se possível, colocar uma validação para não permitir o `@`  no início do nome de usuário, pois o link fica "Quebrado".
 > ![@redes-sociais](perfil-joven/redes-sociais.png)
 
 <br/>
@@ -62,7 +62,7 @@
 
 <br/>
 
-> ### Se possível colocar ao lado do botão "Refaser Teste" um botão para ir para o feed pois no momento que o joven acaba de preencher as habilidades 1MiO, fica um  pouco confuso de o que deve ser feito.
+> ### Se possível colocar ao lado do botão "Refaser Teste" um botão para ir para o feed pois no momento que o joven acaba de preencher as habilidades 1MiO, fica um  pouco confuso de o que deve ser feito.
 > ![Crítica em Inglês](perfil-joven/finalizado-habilidades.png)
 
 <br/>
@@ -86,7 +86,7 @@
 <br/>
 
 - ## Município do Selo
-> ### Indentificado que mesmo após a exclusão, os municíos exlcuidos não sairam do grid `Governos no 1MiO`.
+> ### Indentificado que mesmo após a exclusão, os municíos excluídos não sairam do grid `Governos no 1MiO`.
 > ![Email](materiais/logos-municipios.png)
 
 - ## Município fora do Selo
@@ -94,7 +94,7 @@
 
 - ## Perfil Empresa
 > `Nenhum feedback de melhoria até o momento.`
-- ## Perfil Joven
+- ## Perfil Jovem
 > `Nenhum feedback de melhoria até o momento.`
 - ## Geral
 > ### Em todos os perfís, o link das `Políticas de Uso do 1MiO` não está redirecionando corretamente.
@@ -110,7 +110,7 @@
 > `Nenhum feedback de melhoria até o momento.`
 - ## Perfil Empresa
 > `Nenhum feedback de melhoria até o momento.`
-- ## Perfil Joven
+- ## Perfil Jovem
 > `Nenhum feedback de melhoria até o momento.`
 - ## Geral
 > ### Está segunda barra que aparece após darmos o aceite nos cookies é bem irritante, recomendo se possível colocar um time para que ela se oculte automaticamente.
@@ -128,5 +128,5 @@
 
 - #### _[Veja no GitHub.](https://github.com/thiagowilliamp/feedback-plataforma-1mio)_
 - #### _[Veja no Google Planilhas.](#)_
-- #### _[veja em PDF.](#)_
+- #### _[Veja em PDF.](#)_
 
