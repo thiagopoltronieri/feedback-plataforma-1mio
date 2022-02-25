@@ -35,6 +35,7 @@
 
 # **Prioridade Alta** 
 
+
 <br/>
 
 - ## Município do Selo
@@ -48,6 +49,9 @@
 - ## Perfil Empresa 
 > `Nenhum feedback de melhoria até o momento.`
 - ## Perfil Joven 
+> ### A Palavra `Empresa` no momento do joven cadastrar sua formação educacional fica bem confuso, recomendo alterar para algo tipo `"Instituição"`.
+> ![Email2](perfil-joven/cadastro-escolaridade.png)
+
 > ### No momento do cadastro das redes-socias no perfil do joven, se possível, colocar uma validação para não permitir o `@`  no inicio do nome de usuário, pois o link fica "Quebrado".
 > ![@redes-sociais](perfil-joven/redes-sociais.png)
 
@@ -64,17 +68,17 @@
 <br/>
 
 ## Geral
-> - ### Para todos os perfís, o email só é recebido em email da Microsoft, e estão caindo em Spam.(Acredito que com a migração isso será resolvido, mas incluí aqui no feedback).
+> ### Para todos os perfís, o email só é recebido em email da Microsoft, e estão caindo em Spam.(Acredito que com a migração isso será resolvido, mas incluí aqui no feedback).
 > ![Email](perfil-joven/email.png)
 
 <br/>
 
->- ### 1MiO está escrito em letras minúsculas nos emails recebidos.
+> ### 1MiO está escrito em letras minúsculas nos emails recebidos.
 > ![Email2](perfil-joven/email2.png)
 
 <br/>
 
->- ### No rodapé, o link que leva para ao LinkedIn está incorreto, deve ser substituído por esse `https://www.linkedin.com/company/1mio`
+> ### No rodapé, o link que leva para ao LinkedIn está incorreto, deve ser substituído por esse `https://www.linkedin.com/company/1mio`
 > ![Email2](materiais/link-linkedin.png)
 
 # **Prioridade Média** 
@@ -82,15 +86,19 @@
 <br/>
 
 - ## Município do Selo
-> `Nenhum feedback de melhoria até o momento.`
+> ### Indentificado que mesmo após a exclusão, os municíos exlcuidos não sairam do grid `Governos no 1MiO`.
+> ![Email](materiais/logos-municipios.png)
+
 - ## Município fora do Selo
 > `Nenhum feedback de melhoria até o momento.`
+
 - ## Perfil Empresa
 > `Nenhum feedback de melhoria até o momento.`
 - ## Perfil Joven
 > `Nenhum feedback de melhoria até o momento.`
 - ## Geral
-> `Nenhum feedback de melhoria até o momento.`
+> ### Em todos os perfís, o link das `Políticas de Uso do 1MiO` não está redirecionando corretamente.
+> ![Email2](materiais/politicas.png)
 
 # **Prioridade Baixa** 
 
@@ -105,6 +113,11 @@
 - ## Perfil Joven
 > `Nenhum feedback de melhoria até o momento.`
 - ## Geral
+> ### Está segunda barra que aparece após darmos o aceite nos cookies é bem irritante, recomendo se possível colocar um time para que ela se oculte automaticamente.
+> ![Email2](materiais/barra-ocultar.png)
+
+# **Perfil de consultoria** 
+> `Nenhum feedback de melhoria até o momento.`
 
 <br/>
 <br/>
