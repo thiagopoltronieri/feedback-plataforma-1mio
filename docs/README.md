@@ -50,7 +50,7 @@
 > `Nenhum feedback de melhoria até o momento.`
 - ## Perfil Jovem 
 > ### A Palavra `Empresa` no momento do jovem cadastrar sua formação educacional fica bem confuso, recomendo alterar para algo tipo `"Instituição"`.
-> ![Email2](perfil-joven/cadastro-escolaridade.png)
+> ![Escolaridade](perfil-joven/cadastro-escolaridade.png)
 
 > ### No momento do cadastro das redes-socias no perfil do joven, se possível, colocar uma validação para não permitir o `@`  no início do nome de usuário, pois o link fica "Quebrado".
 > ![@redes-sociais](perfil-joven/redes-sociais.png)
@@ -63,7 +63,7 @@
 <br/>
 
 > ### Se possível colocar ao lado do botão "Refaser Teste" um botão para ir para o feed pois no momento que o joven acaba de preencher as habilidades 1MiO, fica um  pouco confuso de o que deve ser feito.
-> ![Crítica em Inglês](perfil-joven/finalizado-habilidades.png)
+> ![Habilidades](perfil-joven/finalizado-habilidades.png)
 
 <br/>
 
@@ -79,7 +79,7 @@
 <br/>
 
 > ### No rodapé, o link que leva para ao LinkedIn está incorreto, deve ser substituído por esse `https://www.linkedin.com/company/1mio`
-> ![Email2](materiais/link-linkedin.png)
+> ![Link LinkedIn](materiais/link-linkedin.png)
 
 # **Prioridade Média** 
 
@@ -87,7 +87,7 @@
 
 - ## Município do Selo
 > ### Indentificado que mesmo após a exclusão, os municíos excluídos não sairam do grid `Governos no 1MiO`.
-> ![Email](materiais/logos-municipios.png)
+> ![Logos Governos](materiais/logos-municipios.png)
 
 - ## Município fora do Selo
 > `Nenhum feedback de melhoria até o momento.`
@@ -98,7 +98,7 @@
 > `Nenhum feedback de melhoria até o momento.`
 - ## Geral
 > ### Em todos os perfís, o link das `Políticas de Uso do 1MiO` não está redirecionando corretamente.
-> ![Email2](materiais/politicas.png)
+> ![Políticas](materiais/politicas.png)
 
 # **Prioridade Baixa** 
 
@@ -114,7 +114,7 @@
 > `Nenhum feedback de melhoria até o momento.`
 - ## Geral
 > ### Está segunda barra que aparece após darmos o aceite nos cookies é bem irritante, recomendo se possível colocar um time para que ela se oculte automaticamente.
-> ![Email2](materiais/barra-ocultar.png)
+> ![Barra Ocultar](materiais/barra-ocultar.png)
 
 # **Perfil de consultoria** 
 > `Nenhum feedback de melhoria até o momento.`
