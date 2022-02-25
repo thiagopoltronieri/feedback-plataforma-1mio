@@ -25,9 +25,9 @@
 **Feedback geral de usabilidade da nova Plataforma do 1 Milhão de Oportunidades:**
 
 > ### **Guia de navegação por prioridade**
->* [Prioridade Alta](https://thiagowilliamp.github.io/feedback-plataforma-1mio/#munic%C3%ADpio-do-selo-1) 
->* [Prioridade Média](https://thiagowilliamp.github.io/feedback-plataforma-1mio/#munic%C3%ADpio-do-selo-1) 
->* [Prioridade Baixa](https://thiagowilliamp.github.io/feedback-plataforma-1mio/#munic%C3%ADpio-do-selo-1) 
+>* [Prioridade Alta](#prioridade-alta) 
+>* [Prioridade Média](#prioridade-média) 
+>* [Prioridade Baixa](#prioridade-baixa) 
 
 **Feedback geral de usabilidade da nova Plataforma do 1 Milhão de Oportunidades:**
 
@@ -72,4 +72,17 @@
 - ## Perfil Empresa
 - ## Perfil Joven
 - ## Geral
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+- ### [Veja este repositorio no GitHub.](https://github.com/thiagowilliamp/feedback-plataforma-1mio)
+- ### [Veja este repositorio no Planilhas](#)
+- ### [Veja este repositorio em PDF](#)
 
