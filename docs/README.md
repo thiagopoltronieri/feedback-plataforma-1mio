@@ -31,7 +31,10 @@
 
 **Feedback geral de usabilidade da nova Plataforma do 1 Milhão de Oportunidades:**
 
-# **Prioridade Alta** <br/>
+# **Prioridade Alta** 
+
+<br/>
+
 - ## Município do Selo
 - ## Município fora do Selo
 - ## Perfil Empresa
@@ -50,14 +53,20 @@
 >- ### No rodapé, o link que leva para ao LinkedIn está incorreto, deve ser substituído por esse `https://www.linkedin.com/company/1mio`
 > ![Email2](materiais/link-linkedin.png)
 
-# **Prioridade Média** <br/>
+# **Prioridade Média** 
+
+<br/>
+
 - ## Município do Selo
 - ## Município fora do Selo
 - ## Perfil Empresa
 - ## Perfil Joven
 - ## Geral
 
-# **Prioridade Baixa** <br/>
+# **Prioridade Baixa** 
+
+<br/>
+
 - ## Município do Selo
 - ## Município fora do Selo
 - ## Perfil Empresa
