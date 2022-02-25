@@ -126,7 +126,6 @@
 <br/>
 <br/>
 
-- #### _[Veja no GitHub.](https://github.com/thiagowilliamp/feedback-plataforma-1mio)_
-- #### _[Veja no Google Planilhas.](#)_
+- #### _[Veja no GitHub.](https://github.com/thiagowilliamp/feedback-plataforma-1mio)
 - #### _[Veja em PDF.](#)_
 
