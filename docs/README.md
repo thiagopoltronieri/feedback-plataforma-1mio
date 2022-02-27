@@ -1,5 +1,7 @@
 ![Plataforma 1MiO](materiais/plataforma-1mio.png)
 
+#### _[Veja aqui.](https://thiagowilliamp.github.io/feedback-plataforma-1mio/)_
+
 ## **Ações realizadas:**
 
 ### Município do Selo
@@ -113,7 +115,7 @@
 - ## Perfil Jovem
 > `Nenhum feedback de melhoria até o momento.`
 - ## Geral
-> ### Está segunda barra que aparece após darmos o aceite nos cookies é bem irritante, recomendo se possível colocar um time para que ela se oculte automaticamente.
+> ### Esta segunda barra que aparece após darmos o aceite nos cookies é bem irritante, recomendo se possível colocar um time para que ela se oculte automaticamente.
 > ![Barra Ocultar](materiais/barra-ocultar.png)
 
 # **Perfil de consultoria** 
