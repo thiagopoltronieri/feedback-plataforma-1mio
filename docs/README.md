@@ -1,6 +1,6 @@
 ![Plataforma 1MiO](materiais/plataforma-1mio.png)
 
-#### _[Veja aqui.](https://thiagowilliamp.github.io/feedback-plataforma-1mio/)_
+#### _[Veja aqui.](https://thiagopoltronieri.github.io/feedback-plataforma-1mio/)_
 
 ## **Ações realizadas:**
 
